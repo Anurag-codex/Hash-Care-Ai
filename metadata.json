@@ -1,0 +1,9 @@
+{
+  "name": "Copy of Copy of Copy of end of today",
+  "description": "A futuristic, agentic AI healthcare ecosystem dashboard featuring real-time monitoring, AI health assistance, and resource management.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
